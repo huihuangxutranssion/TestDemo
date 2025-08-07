@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestVPN</string>
+    <string name="channel_name">com.example.testvpn.channel_name</string>
+    <string name="channel_description">com.example.testvpn.channel_description</string>
+    <string name="id">com.example.testvpn.id</string>
+</resources>
